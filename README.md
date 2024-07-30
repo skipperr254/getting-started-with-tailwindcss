@@ -33,5 +33,5 @@ npm run build -- 01-setup
 This will place the `output.css` file inside the `01-setup` folder under `dist` so that the full file location will be `01-setup/dist/output.css`
 
 ## Closing remarks
-### Always read the docs🫵. It always works!
+### Always read the docs. It always works!
 **Happy Hacking!** :stuck_out_tongue_winking_eye:
