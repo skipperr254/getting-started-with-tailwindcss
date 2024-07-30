@@ -34,4 +34,4 @@ This will place the `output.css` file inside the `01-setup` folder under `dist` 
 
 ## Closing remarks
 ### Always read the docs🫵. It always works!
-*Happy Hacking! :stuck_out_tongue_winking_eye:
+**Happy Hacking!** :stuck_out_tongue_winking_eye:
