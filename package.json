@@ -98,7 +98,7 @@
     "yaml": "^2.5.0"
   },
   "scripts": {
-    "build": "npx tailwindcss -i ./styles.css -o ./dist/output.css --watch"
+    "build": "node build.js"
   },
   "keywords": [],
   "author": "",

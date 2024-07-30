@@ -35,9 +35,9 @@ module.exports = {
 ```
 
 The `content` section is where you configure the paths to all your HTML templates, JavaScript components and any other source files that contain Tailwind class names.  
-Paths are configured as (glob patterns)[https://en.wikipedia.org/wiki/Glob_(programming)]
+Paths are configured as [glob patterns](https://en.wikipedia.org/wiki/Glob_(programming))
 
-Find more about the content configuration (here)[https://tailwindcss.com/docs/content-configuration]
+Find more about the content configuration [here](https://tailwindcss.com/docs/content-configuration)
 
 Add the `@tailwind` directives to your main CSS file.
 ```css
@@ -83,6 +83,7 @@ An easier and better way would be to add this command to your npm scripts and ju
   "main": "tailwind.config.js",
   "dependencies": {
     // ...dependencies go here
+  }
   "scripts": {
     "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
